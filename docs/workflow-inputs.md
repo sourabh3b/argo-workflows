@@ -4,7 +4,7 @@
 
 `Workflows` and `template`s operate on a set of defined parameters and arguments that are supplied to the running container. The precise details of how to manage the inputs can be confusing; this article attempts to clarify concepts and provide simple working examples to illustrate the various configuration options.
 
-The examples below are limited to `DAGTemplate`s and mainly focused on `parameters`, but similar reasoning applies to the other types of `template`s.
+The examples below are limited to `DAGTemplate`s and mainly focused on `parameters`, but similar reasoning applies to the other types of `templates`.
 
 ### Parameter Inputs
 
